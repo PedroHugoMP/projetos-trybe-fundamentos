@@ -1,0 +1,16 @@
+.h1,h2,h3{
+    text-align: center;
+}
+.body { background-color: bisque;}
+.header{
+    text-align: center;
+}
+.article{
+    text-align: justify;
+}
+.div{ text-align: justify;
+}
+.rodape {
+    color: beige;
+    background-color: black;
+}
